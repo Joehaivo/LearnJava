@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: .\production\LearnJava\haivo\DaDaCar
+Main-Class: haivo.DaDaCar.SystemSurface
+
